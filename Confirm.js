@@ -1,0 +1,1 @@
+window.confirm("This Web Site is Created By Ma. Jitendra Nirnejak")

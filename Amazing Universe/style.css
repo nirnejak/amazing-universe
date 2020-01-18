@@ -1,0 +1,32 @@
+
+<!--
+.style4 {font-size: 18px}
+-->
+
+#navigation td
+{
+border-bottom:1px #000000 solid;
+border-left:1px #000000 solid;
+border-right:1px #000000 solid;
+border-top:1px  #000000 solid;
+}
+
+a
+{
+ background:antiquewhite;
+ padding:8px 6px 10px 20px;
+ font-family:Comic Sans MS;
+ color:#660000;
+ line-height:16px;
+ letter-spacing:.1em;
+ text-decoration: none;
+ display:block;
+ font-size:14px;
+ text-align:center;
+}
+
+a:hover {
+	text-decoration: underline;
+	background:#FFCC99;
+	color:#990000;
+}

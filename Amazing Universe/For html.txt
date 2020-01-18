@@ -1,0 +1,14 @@
+<html>
+<head>
+<script src="RCD.js"></script>
+<title></title></head>
+<body background="11.jpg">
+<b><u><font face="Comic Sans MS" color="red" size="72">
+<hr color="blue">
+<marquee></marquee>
+<hr color="blue">
+</font></u></b>
+<font face="Comic Sans MS">
+<h2></h2>
+</body>
+</html>
